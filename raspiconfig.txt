@@ -1,0 +1,8 @@
+username: raspeballer
+hostname: raspeballer
+password: admin
+wifi: Kjartan
+password: abcd1234
+
+
+149083
